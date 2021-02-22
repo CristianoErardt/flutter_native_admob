@@ -115,7 +115,8 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="end"
                         android:orientation="horizontal"
-                        android:paddingTop="10dp">
+                        android:paddingTop="10dp"
+                        android:paddingBottom="30dp">
 
                         <TextView
                             android:id="@+id/ad_price"
